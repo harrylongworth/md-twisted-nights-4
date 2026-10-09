@@ -204,9 +204,10 @@ still runs Lambda-12.
   sees the Christmas song first-hand in Act III.
 
 **Pack roles** **(proposed):**
-- **Twisted Bonnie** carries the book's emotional thread: he sees in Withered Bonnie an older,
-  broken version of the same shape. He is the one who talks Withered Bonnie down and takes him
-  into the maze. This follows the series pattern of one Twisted holding each book's most personal
+- **Twisted Bonnie** (she/her, per Book 1; quiet, careful, the infiltrator who "got caught in
+  the net and didn't panic once") carries the book's emotional thread: she sees in Withered
+  Bonnie an older, broken version of the same shape. She is the one who talks Withered Bonnie
+  down and takes him into the maze. Tom (2026-10-09): "I don't really mind", so this stands. This follows the series pattern of one Twisted holding each book's most personal
   relationship (Foxy in Books 2 and 3).
 - **Shadow Bonnie / Violet Hellstorm** has heard the Christmas song every year (she never went
   dormant) and has never been down the well. She keeps the Foundation away from it, under
@@ -269,7 +270,7 @@ with Vance's comments in the margin.
    Bellemarsh.
 8. **"Old Friends"** — *POV: Twisted Bonnie.* Twisted Bonnie and Foxy find Withered Bonnie in the
    old railway shed. A tense first meeting: he's aggressive, then friendly-ish. Through the broken
-   voice box: "Looking. For. My friend." Twisted Bonnie sees what he himself could become.
+   voice box: "Looking. For. My friend." Twisted Bonnie sees what she herself could become.
 9. **"The Price of a Signature"** — *POV: Reyes.* The Drell loyalists and Board Liaison Kade use
    Okafor's report (shared through liaison) to demand a capture team in Bellemarsh tonight.
    Reyes agrees, on his terms.
@@ -415,9 +416,8 @@ Answered 2026-10-09: the duo is Leo and Marisol; the guard is Agent Okafor; With
 through a voice box damaged by "A.", decay and disuse; the Prelude line is "Can we agree on that,
 for now at least?".
 
-Still open:
-1. **Twisted Bonnie as the emotional lead** (two Bonnies, "old friends"): yes, or someone else?
-2. **The outline** — keep, change or redo any chapters before drafting starts?
+Still open: none. Tom (2026-10-09): Twisted Bonnie as lead, "I don't really mind"; outline, "No, I don't
+have any changes in mind." Drafting approved.
 
 ---
 
