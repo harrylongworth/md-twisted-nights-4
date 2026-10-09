@@ -36,7 +36,7 @@ For old friends, and for the ones still on their way.
 
 # Meet the Cast {-}
 
-Three books in, Bellemarsh has learnt to live with seven, then eight, then a very old fox who is
+Three books in, Bellemarsh has learned to live with seven, then eight, then a very old fox who is
 asleep again in the woods. This book is about the first visitor who didn't come to hunt anybody.
 He came to find someone.
 
@@ -44,7 +44,7 @@ He came to find someone.
 should be. He stepped out of a tree that shouldn't have opened. He is looking for a friend, and he
 will not stop.
 
-**Leo Fontenot and Marisol**: the two people in town who see him first. Leo has learnt, the hard
+**Leo Fontenot and Marisol**: the two people in town who see him first. Leo has learned, the hard
 way, when to put the phone down.
 
 **Agent Okafor**: SCP Foundation, Mobile Task Force Lambda-12. Once, his first summer on the job, a fox
@@ -59,7 +59,7 @@ is about to meet someone with her shape and her name who has been through far wo
 
 **The SCP Foundation**: Senior Analyst Rebecca Miller, who has a private file she isn't filing,
 and Field Commander Vance, who has never once in her career been told to go to bed by a woman in a
-dressing-gown.
+bathrobe.
 
 **The Global Occult Coalition**: Commander Reyes, who has full command now and a review board that
 wishes he didn't.
@@ -102,7 +102,7 @@ on the same fallen log for a while, and talked to a patch of ground that never t
 
 Tonight the trip had an extra stop on it.
 
-There was a light at the treeline, a small one, the kind of red-filtered torch that people carry
+There was a light at the treeline, a small one, the kind of red-filtered flashlight that people carry
 when they don't want to be seen and are about to be seen anyway. Under it, on a folding camp stool
 that was much too small for him, a man in a padded Foundation jacket sat with his arms wrapped
 around himself, glaring at the woods as if they owed him money.
@@ -111,7 +111,7 @@ Foxy knew him. It had taken her a second, but she knew him.
 
 The first summer, the summer of the livestream and the nets and the long, bad night in Midnight
 Wood, a very new agent had wandered eleven yards past his marker after what he thought was a
-raccoon. She had stood twenty metres from him and looked at him for three long seconds, and decided
+raccoon. She had stood twenty meters from him and looked at him for three long seconds, and decided
 he wasn't worth the trouble, and left. He'd driven a stake into the ground on the spot afterwards.
 She'd seen it. Most of the pack had seen it. It was still there, a short grey stick half swallowed
 by grass, right beside his little stool.
@@ -173,16 +173,16 @@ shape you could see the trees through. It was greenish, and scorched, and it glo
 the way a TV screen glows after you turn it off.
 
 "All on your own, at Christmas," it went on, "sitting next to a stick. I've been watching you for
-three nights. You talk to the radio like it's your nan."
+three nights. You talk to the radio like it's your grandma."
 
 "Who," said Okafor, carefully, to the trees in front of him, "is speaking?"
 
 "Nobody. Me. Doesn't matter." It yawned. He heard the yawn. It had far too many teeth in it. "I'm
-bored. That's the thing. Nothing's happened round here in weeks, since the big orange one went
-back to sleep, and I like it when things happen. So I'm going to do you a favour, stick man,
+bored. That's the thing. Nothing's happened around here in weeks, since the big orange one went
+back to sleep, and I like it when things happen. So I'm going to do you a favor, stick man,
 because I'm in a good mood, and because it'll be funny."
 
-"A favour," Okafor repeated.
+"A favor," Okafor repeated.
 
 "Something interesting is happening tonight," it said, and he could hear it grinning. "Out that
 way. Deeper in. You'll want to keep your eyes open."
@@ -263,7 +263,7 @@ place where his voice lived, the place the man had broken.
 *Find them,* he thought instead. *Find them. Find them.*
 
 He went toward the lights. He went clumsily at first, then less clumsily, his long feet crunching
-leaves. He went through the dark trees, past a hollow in the ground that smelt of old smoke and
+leaves. He went through the dark trees, past a hollow in the ground that smelled of old smoke and
 something sleeping, and he gave it a wide berth without knowing why. Then, at the edge of the
 woods, he passed a small red light with a man sitting under it.
 
@@ -287,10 +287,10 @@ is the twenty-fourth. Technically. It's still worth it."
 "It is three-forty in the morning," said Marisol, "and I have seen one meteor, and I think it was a
 plane."
 
-They were lying on the bonnet of her brother's car, which was parked, without her brother's
+They were lying on the hood of her brother's car, which was parked, without her brother's
 knowledge, at the end of the old logging track where the trees opened up and you could see the
-whole sky. School had broken up the day before. Leo's mum thought he was at Marisol's. Marisol's
-mum thought she was at Leo's. Both of them had a blanket, a thermos of hot chocolate, and a
+whole sky. School had let out the day before. Leo's mom thought he was at Marisol's. Marisol's
+mom thought she was at Leo's. Both of them had a blanket, a thermos of hot chocolate, and a
 growing feeling that this had been a better idea at nine o'clock.
 
 Leo's phone was propped on the dashboard, pointing at the sky. The stream had two viewers. One of
@@ -308,7 +308,7 @@ and I think, there's stuff in there."
 Marisol was about to say something nice back to him, which she would have regretted, when she saw
 it.
 
-It was coming out of the trees on the far side of the logging track, maybe sixty metres away,
+It was coming out of the trees on the far side of the logging track, maybe sixty meters away,
 walking upright on two long legs. It walked badly, like a person on a boat. It was taller than
 either of them, taller than her brother, with two long ears, one bent over at the tip. One arm hung
 at its side, thin as a pipe, with something dangling from the elbow. Where the other arm should
@@ -323,7 +323,7 @@ She grabbed Leo's arm so hard he yelped.
 
 Leo looked. She felt him go stiff.
 
-The thing didn't look at them. It walked straight across the logging track, about forty metres
+The thing didn't look at them. It walked straight across the logging track, about forty meters
 away now, its head turned toward the town the whole time. They could hear its feet in the gravel.
 They could hear something else, too, a low crackling hum, like a radio between stations. And
 once, as it reached the trees on their side, they heard it make a sound that was almost a word.
@@ -344,7 +344,7 @@ Then, slowly, he turned the phone face down on the dashboard and ended the strea
 
 "Yeah, well." He was shaking. They both were. "Foxy would've killed me. Not *killed* me. You know."
 
-"I know." She was already sliding off the bonnet. "Get in the car."
+"I know." She was already sliding off the hood. "Get in the car."
 
 "Where are we going?"
 
@@ -356,7 +356,7 @@ them. We tell them *now*."
 
 Spring Bonnie had been awake for a long time, and she had been woken for a lot of reasons. A
 livestream, once. A net. A strike team. A fox the size of a myth, with a sickle for a hand. She had
-been woken for good reasons and bad ones, and over the years she had learnt to tell them apart in
+been woken for good reasons and bad ones, and over the years she had learned to tell them apart in
 the first two seconds.
 
 Twisted Foxy, sliding down between the cypress roots at 4:05 AM with two out-of-breath teenagers
@@ -371,7 +371,7 @@ have been a word.
 
 The pack listened. All eight of them were there now, folded into the dark under the roots like
 furniture under dust sheets. Fredbear sat at the back, enormous and still. Wolf's head had turned
-all the way round to watch the kids, which was a thing Wolf did when he was interested and which
+all the way around to watch the kids, which was a thing Wolf did when he was interested and which
 Marisol was trying very hard not to look at. Chica was sitting closest, and had, without anyone
 noticing her do it, put herself between the two humans and the cold draught from the entrance.
 
@@ -397,7 +397,7 @@ been anywhere near here. He's come from somewhere else entirely."
 
 "Like us," said Freddy, from the other side of the roots. He meant it as a joke. It didn't land as
 one. The pack had never known where they'd come from either. That was an old ache, and Freddy had
-just leant on it.
+just leaned on it.
 
 "No face," said Wolf, quietly. "One arm. Wires. That's not an illusion. That sounds like the real
 thing, worn out."
@@ -449,9 +449,9 @@ Foxy was already moving. Twisted Bonnie got up more slowly, unfolding her long l
 *0304: Agent reports a transparent, green, fire-damaged vulpine entity at close range (est. 30
 cm), left side. Entity spoke. Exact words (agent's recollection): "Something interesting is
 happening tonight. Out that way. Deeper in. You'll want to keep your eyes open." Entity also
-described agent as "stick man" and said he talks to his radio "like it's your nan". Agent turned
+described agent as "stick man" and said he talks to his radio "like it's your grandma". Agent turned
 and made direct visual contact, against protocol. Entity performed a sudden aggressive approach
-toward the agent's face with an intense auditory component and dematerialised. No physical
+toward the agent's face with an intense auditory component and dematerialized. No physical
 contact. No injury. Bodycam footage reviewed: 4.1 seconds of green interference, no usable image.*
 
 *0351: Hourly check. All quiet. Agent reports "nothing interesting so far".*
@@ -474,14 +474,14 @@ The town was full of friends.
 
 That was what he thought at first, walking in under the looping lights at the end of Cypress
 Street with the cold in his joints and the crackle in his chest. There were faces everywhere. A
-round, smiling face painted on a shop window. A row of little faces in a front garden, glowing
+round, smiling face painted on a shop window. A row of little faces in a front yard, glowing
 from inside, a snowman and a deer and a man in a red coat. They were looking at him. They were
 smiling.
 
 He went to each one. He was very polite about it, the first few times.
 
 The snowman was plastic and hollow and had a light bulb inside it, and it did not know him. The
-deer was the same. The man in the red coat, in the garden of a house with its curtains drawn, was
+deer was the same. The man in the red coat, in the yard of a house with its curtains drawn, was
 taller and had a beard made of something soft. When Withered Bonnie bent down and put his one hand
 on its shoulder and made the crackle that was nearly *friend*, its head turned with a whirr, and
 its arm went up and down, and a voice came out of it that said, "Ho! Ho! Ho! Merry Christmas!"
@@ -506,8 +506,8 @@ a big one, sitting in a sleigh, waving. It was not him either. The glass was bet
 Withered Bonnie found out what glass was again, all at once, in a long crash that set off a bell
 somewhere inside the shop, ringing and ringing.
 
-He kept going. He didn't know where. Down the backs of buildings, where the bins were. Something
-smelt warm. There was a light on behind a building with a long window and a paper snowman in it,
+He kept going. He didn't know where. Down the backs of buildings, where the trash cans were. Something
+smelled warm. There was a light on behind a building with a long window and a paper snowman in it,
 and a door at the back propped open with a brick, and steam coming out of it, and a man.
 
 Indaro had opened the diner at 4:45 every morning for over a year now, because Miss Odalys had
@@ -516,7 +516,7 @@ machine warming up, and the radio on low, and the sense that the whole town was 
 he was getting things ready for it. He had his back to the door, cracking eggs into a bowl, when
 the light changed behind him.
 
-He turned round. A tall, faceless rabbit with one arm was standing in his kitchen doorway, wires
+He turned around. A tall, faceless rabbit with one arm was standing in his kitchen doorway, wires
 swinging from its elbow, two small lights deep in the dark where its face should have been.
 
 Indaro had had a complicated life. It had taught him one useful thing, which was that you should
@@ -526,7 +526,7 @@ He held up the bowl of eggs.
 
 "We're not open," he said. "Not till six."
 
-The rabbit leant forward. The crackle in its chest rose and fell. Indaro had the feeling it was
+The rabbit leaned forward. The crackle in its chest rose and fell. Indaro had the feeling it was
 looking at him very carefully, for a very particular face, and not finding it.
 
 "Fr—" it said. "Friend?"
@@ -537,9 +537,9 @@ looking at him very carefully, for a very particular face, and not finding it.
 The rabbit made a sound that was all static. It wasn't angry, quite. It was something worse than
 angry, something that had hoped and hadn't found. It swung its one arm and the stack of trays by
 the door went over with a clatter you could have heard in the next county. Then it was gone,
-lurching off down the alley into the dark between the bins.
+lurching off down the alley into the dark between the dumpsters.
 
-Indaro stood in the middle of the kitchen with the bowl of eggs and trays all round his feet.
+Indaro stood in the middle of the kitchen with the bowl of eggs and trays all around his feet.
 
 Then he put the eggs down, very carefully, and went to find the phone number Miss Odalys had
 written on the inside of the pantry door a year ago. Underneath it, in her handwriting, it just
@@ -552,7 +552,7 @@ Twisted Bonnie found him by listening.
 Foxy found most things by running at them. Wolf found things by smell, Spring Bonnie by hearing,
 Shadow Bonnie by already knowing. Twisted Bonnie found things by being very quiet and paying
 attention to where the quiet was wrong. There was a smashed shop window on the corner with an
-alarm still ringing. There was a garden Santa without a head. There were trays all over the diner
+alarm still ringing. There was a lawn Santa without a head. There were trays all over the diner
 yard, and the light still on. And past the diner, out at the edge of town where the old railway
 spur ran into the trees, there was a goods shed nobody had used in forty years. From the shed came
 a sound, a thin, crackling hum, going round and round like a song with only one note left in it.
@@ -569,13 +569,13 @@ Foxy listened. Then her ears went slowly down again. "Oh," she said. "Oh, that's
 
 The sky over the trees was going grey. Twenty minutes, maybe, before the light was real. They went
 in through the gap where the shed's big door had rusted off its runners. Inside it was dark and
-smelt of oil and old wood and pigeons. He was in the far corner.
+smelled of oil and old wood and pigeons. He was in the far corner.
 
-He was sitting on an upturned crate with his back to them, very still, shoulders up round his long
+He was sitting on an upturned crate with his back to them, very still, shoulders up around his long
 bent ears. The hum was coming from him. When their feet crunched on the grit of the floor it
 stopped.
 
-He turned round.
+He turned around.
 
 Up close, Twisted Bonnie thought, he was worse than the kids had said, and he was also not worse at
 all. The fabric on him had gone to threads and in places to nothing, and you could see the frame
@@ -599,7 +599,7 @@ without looking at her.
 "*He's* frightened?"
 
 "Of course he is." She didn't move toward him. She didn't move at all. She'd been in a net once,
-on a long bad night, and she'd learnt then that the way out of being frightened is for somebody
+on a long bad night, and she'd learned then that the way out of being frightened is for somebody
 else to stay very still. "He's somewhere he doesn't know, he's on his own, and two strangers just
 walked in on him in the dark. And he's tried to find someone all night, and every face he's found
 was the wrong one."
@@ -634,7 +634,7 @@ pulled out of the broken box by hand. "For. My. Friend."
 He tried. She watched him try. His hand went up and drew something in the air, long and thin, a
 tall narrow shape. He touched his own empty face and drew something on it: two lines going down
 from where eyes would be, and a curve for a smile. The crackle in his chest made a shape that
-wasn't a word at all. It was, she realised after a moment, a few notes. A tune. Three notes going
+wasn't a word at all. It was, she realized after a moment, a few notes. A tune. Three notes going
 up and two coming down, broken and buzzing, but a tune.
 
 Then the static took it, and he made a sound of pure frustration and turned and hit the wall of the
@@ -695,7 +695,7 @@ The phone on her desk rang.
 
 "You've read Vance's log." It was Miller. It was always Miller, these days. Rebecca Miller had got
 a corner office after the first summer, and a bigger one after the second, and it had made her no
-less likely to ring people up before they'd had their coffee.
+less likely to call people up before they'd had their coffee.
 
 "Just now."
 
@@ -707,7 +707,7 @@ imagination."
 "Vance says he hasn't got any imagination at all. She put it in writing." There was the sound of a
 pen clicking. Miller clicked her pen when she was thinking, and she was always thinking. "There's
 something else. A Bellemarsh resident called the county police at 4:20 this morning to say someone
-had decapitated the Santa in her front garden. The hardware store window's smashed. And the diner
+had decapitated the Santa in her front yard. The hardware store window's smashed. And the diner
 called in a break-in at five, then called back ten minutes later and said never mind, it was a
 raccoon."
 
@@ -715,7 +715,7 @@ raccoon."
 
 "It does," Miller agreed. "Funny how many of them there are."
 
-Violet said nothing. She had learnt, over a long time, that saying nothing to Rebecca Miller was
+Violet said nothing. She had learned, over a long time, that saying nothing to Rebecca Miller was
 safer than saying something.
 
 "I'm going out there," Miller said. "Today. I've cleared it with Site Command. I'd like you to
@@ -743,7 +743,7 @@ Then she picked up the night log one more time and read the last line Okafor had
 
 # Chapter 9: The Price of a Signature
 
-Commander Reyes took the call in his kitchen, in a dressing-gown, with toast going cold on a plate,
+Commander Reyes took the call in his kitchen, in a bathrobe, with toast going cold on a plate,
 because the review board did not believe in Christmas Eve.
 
 "We've had a liaison forward," said Board Liaison Kade, on the screen of his laptop, in the same
@@ -808,16 +808,16 @@ And then, because there was no one to see it, he ate the cold toast anyway.
 
 The plan had been simple. Marisol would keep him in the shed. Twisted Bonnie would keep him calm.
 Leo would bring supplies, though nobody had worked out what supplies a faceless robot rabbit
-needed, so Leo had brought a torch, a blanket, a flask of tea and a packet of custard creams,
-on the grounds that you can't go wrong with custard creams.
+needed, so Leo had brought a flashlight, a blanket, a thermos of cocoa and a tin of Christmas cookies,
+on the grounds that you can't go wrong with cookies.
 
 The plan had lasted until a quarter past ten.
 
 "He's gone," said Marisol, sticking her head back in through the gap in the shed door. "He's *gone*.
-I went out for one minute, *one*, to ring my mum—"
+I went out for one minute, *one*, to call my mom—"
 
 "Which way?" said Twisted Bonnie. She was sitting in the darkest corner, folded up so small and so
-still that if you didn't know she was there you'd have thought she was a pile of old sacking.
+still that if you didn't know she was there you'd have thought she was a pile of old burlap.
 
 "I don't know! Into town!"
 
@@ -828,7 +828,7 @@ there, not in the day. If they see me too—" She stopped. "You'll have to."
 
 "*Us*?"
 
-"He knows you a bit now. You gave him a biscuit." Leo had. Withered Bonnie hadn't eaten it, having
+"He knows you a bit now. You gave him a cookie." Leo had. Withered Bonnie hadn't eaten it, having
 nowhere to put it, but he had held it very carefully for nearly an hour, which Marisol had found so
 sad she'd had to go outside. "Find him. Keep people away from him. Bring him back. Please."
 
@@ -836,8 +836,8 @@ They found him in about four minutes, because it turned out you could follow Wit
 through a small town on Christmas Eve by following the screaming.
 
 It wasn't much screaming, to be fair. Most of Bellemarsh was indoors wrapping presents, and the
-bit that was out was mostly too busy to look up. But Mrs Arceneaux, coming out of the post office,
-had looked up. And Mr and Mrs Thibodeaux's twins had looked up. They hadn't screamed, they'd waved.
+bit that was out was mostly too busy to look up. But Mrs. Arceneaux, coming out of the post office,
+had looked up. And Mr. and Mrs. Thibodeaux's twins had looked up. They hadn't screamed, they'd waved.
 Marisol found that, when she thought about it later, the most worrying part.
 
 He was standing in the churchyard of St. Jude's, in front of the nativity scene.
@@ -859,12 +859,12 @@ that's been out in the rain. "Come back to the shed? Please? Bonnie's worried ab
 Bonnie. You're not in trouble."
 
 Behind her, Leo was doing something she would never have believed if she hadn't seen it. He was
-standing in the gateway of the churchyard, smiling at the people going past on the pavement, and
+standing in the gateway of the churchyard, smiling at the people going past on the sidewalk, and
 saying, "Christmas display! Animatronic! The church hired it! Isn't it great?" in a voice so
-cheerful it was almost an attack. And people were nodding. A woman with a pushchair said it was
+cheerful it was almost an attack. And people were nodding. A woman with a stroller said it was
 lovely, and very modern, and did the arm move?
 
-The arm did move. Withered Bonnie turned round, slowly, and looked at the woman with the pushchair,
+The arm did move. Withered Bonnie turned around, slowly, and looked at the woman with the stroller,
 and the baby in it looked back at him with enormous eyes. Then the baby laughed, a huge delighted
 gurgle, and reached up with both fists.
 
@@ -876,7 +876,7 @@ He stopped. His whole frame went still.
 
 He stood looking at the baby, and the baby went on laughing, and the lights in his face did
 something she would have called, on a person, crying. Then he let her take his hand, very gently,
-by the two longest fingers. They walked him round the back of the church and down the lane and
+by the two longest fingers. They walked him around the back of the church and down the lane and
 across the waste ground to the railway spur, the long way, where nobody went.
 
 He went with them. But he kept looking back.
@@ -921,10 +921,10 @@ Miller wrote *big raccoon* in her notebook and underlined it twice.
 
 They spent the afternoon on Cypress Street, walking. Miller talked to people. She was good at it.
 She was friendly and interested and asked about the lights and the tree and what people were
-doing for Christmas, and she listened to the answers. She learnt that the Arceneaux family were
-having a ham this year instead of a turkey. She learnt that the church had a new animatronic in the
-nativity, which was very modern, and did the arm move? She learnt that the brigade had brought the
-Town Hall tree in on the back of the fire truck, like always. And she learnt, gradually and then
+doing for Christmas, and she listened to the answers. She learned that the Arceneaux family were
+having a ham this year instead of a turkey. She learned that the church had a new animatronic in the
+nativity, which was very modern, and did the arm move? She learned that the brigade had brought the
+Town Hall tree in on the back of the fire truck, like always. And she learned, gradually and then
 all at once, something else.
 
 "You'll be heading back before dark, I expect," said the man at the hardware store, sweeping up
@@ -961,7 +961,7 @@ It's been dry for a hundred years."
 
 Miller looked at her for a long moment. Violet didn't look back.
 
-Then Miller did something she hadn't done in the whole of her career, which was to ring Field
+Then Miller did something she hadn't done in the whole of her career, which was to call Field
 Commander Vance, on Christmas Eve, and ask her to bring Lambda-12 into town for the night.
 
 "Because of a folk tale," said Vance.
@@ -994,7 +994,7 @@ look at. It wasn't on the Ledger, because it never did anybody any harm. It sang
 out of the woods, and in the morning it was Christmas. Every year she had sat somewhere dark and
 listened to it, and felt something she'd never had a name for, and gone on with her work.
 
-Exactly like the town, she realised. Exactly like everybody else. All those years
+Exactly like the town, she realized. Exactly like everybody else. All those years
 spent telling herself the people of Bellemarsh were the ones who never asked questions, and she'd
 been doing exactly the same thing.
 
@@ -1029,7 +1029,7 @@ Christmas, between midnight and six, something down there sings."
 
 The hum in the corner stopped dead.
 
-Withered Bonnie lifted his head. The lights in his face swung round and fixed on her. It was the
+Withered Bonnie lifted his head. The lights in his face swung around and fixed on her. It was the
 first time he had looked at her at all.
 
 "Sing," he said.
@@ -1088,3 +1088,477 @@ midnight and six. (This means you, Leo.)*
 then.*
 
 *Merry Christmas from all of us at the Council.*
+
+## Act III: Best Day Ever {-}
+
+# Chapter 13: Stakeout
+
+By half past eleven on Christmas Eve, every curtain on Town Hall Square was closed.
+
+Miller watched them close. She sat in the back of the Lambda-12 van with the side door open a crack
+and watched lights go off in windows all around the square, one after another, like somebody
+blowing out candles on a cake. At 11:40 the last one went out, above the post office. After that
+the only lights left were the Christmas ones: the loops along Cypress Street, the big tree, and the
+little garland of white bulbs around the roof of the well.
+
+"Every house," she said. "Every single house. Twenty minutes early."
+
+"It's a small town," said Vance, beside her. "People go to bed."
+
+"People don't all go to bed at once, Commander."
+
+Vance didn't answer that, which Miller took as agreement. Lambda-12 had set up in three places: the
+van, parked behind the Town Hall; two agents on the roof of the bank; and Okafor, who had asked for
+the bench directly across the square from the well, with a thermos and a bodycam and the
+expression of a man who had been told something interesting was going to happen and intended to
+be there for it.
+
+"He's been unbearable," Vance said. "All the way here. 'I told you so, ma'am.' 'It said tonight,
+ma'am.' I've had to listen to it for forty miles."
+
+"You brought him, though."
+
+"Of course I brought him. If a phantom told me something, I'd want to be there too."
+
+Violet sat in the front seat with a set of headphones around her neck and the audio feed from the
+microphones they'd clipped to the well's little roof. She hadn't said much since the diner. Miller
+watched the back of her head in the dim light of the screens and wrote, in the small notebook on
+her knee, *V.H. quiet since 9:30. Left diner booth without me seeing her go. Was in the car when I
+came out. Car was locked.*
+
+She was so busy writing it that she didn't see the movement across the square.
+
+Okafor did. He was very good at seeing things now. On the far side of the square stood St. Jude's,
+and in its dark churchyard, among the gravestones, something had shifted, low and careful. It
+wasn't an animal. It moved the way trained people move when they think nobody's watching.
+
+He thumbed his radio. "Van, Okafor. Movement in the churchyard. Multiple. Not animals."
+
+"Copy." A pause. Then Vance, very dry: "How many?"
+
+"Eight? Wearing black. Carrying something long and rolled up." He squinted. "Ma'am, I think it's
+nets."
+
+In the van, Vance closed her eyes for a moment.
+
+"GOC," she said. "Of course it is. Of *course* the GOC's here. It's Christmas. Why wouldn't they
+be?"
+
+"Should we make contact?" said Miller.
+
+"And say what? 'Merry Christmas, we're also staking out a well'?" Vance rubbed her face. "No. They
+don't know we're here. Let's keep it that way as long as we can. If something comes, I'd like to
+see what they do about it before they see what we do."
+
+In the churchyard, behind the biggest gravestone, Commander Reyes lowered his night glasses and
+said, very quietly, to the person crouched beside him, "There's a Foundation van behind the Town
+Hall."
+
+"I know," said Kade. "I saw it on the way in."
+
+"You didn't think to mention it?"
+
+"I thought it would be more interesting if you found it yourself," said Kade.
+
+Midnight came. The church clock struck it, twelve slow notes rolling out over the dark square.
+Nobody moved. The well sat in the middle of everything in its garland of lights, old and small and
+round, and did absolutely nothing.
+
+# Chapter 14: The Plan
+
+Fredbear had led the pack for as long as there had been a pack, and in all that time he had never
+had to make a plan around a song.
+
+"We don't know when it starts," he said. They were gathered in the dark at the end of the railway
+spur, all of them, eight Twisted, two teenagers and one tall, shaking rabbit who could not keep
+still. "Between midnight and six. That's all anyone knows. It could be ten past twelve, it could be
+quarter to six. So we wait until it starts. Then we move, and we move fast."
+
+"There's Foundation at the square," said Wolf. He had been to look. His head was still turned
+halfway around, the way it went when he'd seen something he didn't like. "A van, two on a roof, and
+one on a bench, the agent from the stake. And eight GOC in the churchyard opposite, with nets."
+
+"Both of them," said Spring Bonnie. "Both at once. On Christmas Eve."
+
+"And neither of them knows the other one's there," said Wolf. "Or they didn't, an hour ago."
+
+Shadow Bonnie was not with them. She was in the front seat of a Foundation van, wearing a coat and a
+pair of headphones and a polite expression, and she was the most important part of the plan, which
+was that whenever Rebecca Miller was about to look at the right thing, she would be looking at
+something else.
+
+"Chica, Freddy," said Fredbear. "The churchyard. When it starts, the GOC will go for him. Give them
+something else to go for first. Illusions only. Nobody touched."
+
+Chica cracked her knuckles, all of them, which took a while. Freddy said, "Happy to," and meant it.
+
+"Foxy. You're fastest. You're everywhere at once. Anyone who gets close, you get closer."
+
+"Obviously," said Foxy.
+
+"Leo, Marisol." Fredbear turned his great head. The two of them stood up straighter without meaning
+to. "The Foundation agent on the bench. He'll be looking at the well. When it starts, he needs to be
+looking at you instead."
+
+"How?" said Marisol.
+
+"You're two teenagers out after midnight on Christmas Eve, in a town where everyone is supposed to
+be in bed," said Spring Bonnie. "I imagine you'll think of something."
+
+Leo looked at Marisol. Marisol looked at Leo.
+
+"We've lost the dog," said Leo.
+
+"We haven't got a dog," said Marisol.
+
+"We've lost the dog," said Leo again, more firmly, "and we're really upset about it."
+
+"And Bonnie," said Fredbear. He looked at Twisted Bonnie, sitting next to Withered Bonnie on the
+cold rail, one hand on his arm, the way she had sat all day. "You take him. When it starts, you take
+him straight to the well and you take him down it. Whatever's down there, you go with him."
+
+"Yes," said Twisted Bonnie.
+
+"We don't know what's down there."
+
+"No," she said. "But he does."
+
+Withered Bonnie wasn't listening. He was sitting with his long ears pricked forward, his head
+turned toward the town, toward the square, toward the well. He sat as still as anything she had
+ever seen, every part of him listening, the way you listen in a crowd for your own name.
+
+They waited.
+
+At 12:30, Foxy started pacing. At 1:00, Freddy told a joke, and Chica hit him. At 1:30, Leo fell
+asleep against Marisol's shoulder and she let him. At 1:50, Wolf said, "They've seen each other,"
+meaning the Foundation and the GOC. At 2:00, Twisted Bonnie said, very quietly, to the shaking
+rabbit beside her, "Nearly. I think it's nearly."
+
+She didn't know that. She just thought it would help.
+
+At 2:14, it did.
+
+# Chapter 15: The Song
+
+It came up out of the ground.
+
+That was the first thing. Not out of the air, the way songs come, but up, through the soil and the
+stones and the roots, so he felt it in his feet before he heard it in the place where his ears were.
+A hum, deep and soft, like someone humming with their mouth closed so as not to wake anybody.
+
+Then the notes. Three going up. Two coming down.
+
+He was on his feet. He didn't remember standing.
+
+The notes went on, and turned into more notes, and the more notes turned into a tune, and the tune
+was one he knew. He had always known it. He had known it on a stage, under coloured lights, with
+children laughing. He had known it after the stage, in the dark, when the bad thing had happened.
+He had known it in the blue, in the long quiet, where there was no sound at all, and he had held
+on to it there for longer than he could count. It was the only thing he had brought with him. It
+was the thing that had kept the box in his chest from going silent for good.
+
+And it was coming from the town. Now. Here. Real.
+
+Down in the woods behind him, four lights came up out of the trees.
+
+He saw them over his shoulder. Four small around glows, white and soft, rising out of the dark of
+the deep woods as if they'd been waiting there all year. They hung in the air for a moment, then
+went drifting toward the town, past the end of the railway spur, past the edge of the houses,
+following the song the way moths follow a lamp.
+
+He went after them.
+
+Someone said *wait*, and someone else said *now*, and someone had hold of his arm, and he went
+anyway. He went down the railway spur and across the waste ground and out onto the end of Cypress
+Street under the looping lights. The lights didn't matter now and the shop windows didn't matter
+and the smiling faces in the yards didn't matter, because they were all the wrong faces, all of
+them, and he had known that all along. The right one was singing.
+
+The street ran straight to the square. He could see the well at the end of it, small and round,
+ringed in white bulbs. The four lights had got there before him. They were going around it in a
+slow circle, dipping and rising, round and round, as well as lights can dance.
+
+The person holding his arm was Bonnie. The other Bonnie. Twisted Bonnie. She wasn't trying to stop
+him now. She was running beside him, matching his long, clumsy strides with her own, and she was
+saying something, over and over.
+
+"Straight down the middle. Don't stop. Don't look at anyone. Straight to the well. I've got you.
+I've got you."
+
+There were people at the end of the street. He could see them: dark shapes coming out of the
+churchyard, carrying something long between them. There was a van with its door open, a man on a
+bench getting to his feet. None of it mattered.
+
+He opened the broken box in his chest and pushed everything he had into it, everything he'd held
+on to in the blue, and he sang back.
+
+It wasn't much of a sound. It was static, and buzzing, and three notes up and two notes down. But
+it was loud, and it was the right tune, and it went down Cypress Street ahead of him into the square.
+
+And under the ground, for one moment, the song stopped.
+
+Then it started again, louder.
+
+# Chapter 16: Go Back to Bed, Honey
+
+"It's singing," said Okafor, on the radio, in a voice that had gone up an octave. "Ma'am, it's
+singing. The well's singing. There are lights, four lights, around the well, they came out of the
+woods, they're going round and round—"
+
+"I can see them, Okafor."
+
+"I *told* you, ma'am."
+
+"You did, Okafor."
+
+In the van, every screen was going mad. The microphones on the well's roof were picking up a tune,
+clear and sweet and slightly sad, coming from somewhere far below the ground. The thermal cameras
+showed four small hot spots going around in a circle. The ordinary cameras showed four white
+balls of light. The lab people would spend the next three months failing to explain them.
+
+And the town slept.
+
+That was what Miller couldn't get over. She stood in the open door of the van with her mouth
+slightly open and looked around the square at the closed curtains and the dark windows, and not one
+of them so much as twitched.
+
+"They can't be asleep," she said. "Nobody could sleep through that."
+
+"Analyst—" said Vance.
+
+But Miller was already out of the van and across the sidewalk to the nearest front door, a
+green one with a wreath on it, and she was knocking.
+
+It took a while. Then a light went on upstairs, and feet came down, and the door opened a crack on
+the chain. A woman in a pink bathrobe and curlers looked out at her.
+
+"Foundation for— I mean, I'm from the government," said Miller, holding up her ID. "Ma'am, I'm
+sorry to wake you, but are you aware that the well outside your house is—"
+
+"Singing," said the woman. "Yes, honey. It does that."
+
+Miller opened her mouth and shut it again.
+
+"It's Christmas," the woman said, kindly, as if Miller might have forgotten. "It's the well. It
+does it every year. Go back to bed, honey." And she shut the door.
+
+Miller knocked on the next door. A man in a bathrobe with reindeer on it told her it was the
+well, and was she lost, and did she want him to call her a taxi. At the third door, an old man told
+her his grandfather used to say that whoever was down there was waiting for somebody, and wasn't
+that nice, and then he offered her a glass of eggnog. She found she had taken it before she'd
+decided to.
+
+At the fourth door, two small faces appeared at the upstairs window, pressed to the glass. Their
+mother's voice said, sharp and sleepy, "What did I tell you two about looking out of the window?"
+and the faces vanished, and the curtain was pulled tight.
+
+Miller stood in the middle of the sidewalk in the dark, holding a glass of eggnog, with a song
+coming up out of the ground and four lights dancing around a well. And for the first time in her
+whole career, she had absolutely no idea what to write down.
+
+"Analyst Miller," said Vance's voice in her ear. "If you've finished, could you come back to the
+van? Only something is coming down Cypress Street, and it's quite tall, and there's two of it."
+
+She turned around.
+
+They were coming down the middle of the street under the Christmas lights, at a run. Two of them,
+both tall, both rabbit-shaped, long ears up. One was blue-purple and whole and moved like water.
+The other was falling apart, one-armed, faceless, lurching, and it was singing back. It wasn't much
+of a voice, all static and buzz, but it was the same tune.
+
+Miller dropped the eggnog.
+
+Behind her in the van, in the front seat, Violet Hellstorm took her headphones off and put them down
+very carefully, and got out.
+
+# Chapter 17: Something Interesting, Part Two
+
+Okafor was on his feet on the bench, which wasn't procedure, but he wanted to see.
+
+He saw the two rabbits coming down Cypress Street. He saw the four lights go around the well. And he
+saw the eight dark shapes come out of the churchyard all at once, fast and low, in a wide arc, the
+long rolled bundles between them shaking out into nets.
+
+And then he saw something he'd remember for the rest of his life. Every one of those eight GOC
+soldiers, at exactly the same moment, swerved hard left.
+
+There was a bear in the churchyard gate, a huge brown one, grinning, with far too many teeth. At
+least, there was for a second, then there wasn't. There was a chicken on the war memorial, every
+row of its teeth shining in the Christmas lights. Then there wasn't, and there was a chicken on the
+roof of the bus shelter instead, and another one by the mailbox, and all of them were laughing.
+The GOC team split up. Two went for the bear, three for the chickens, and three kept going for the
+rabbits. Okafor had never seen anything like it. The bear and the chickens weren't there. They were
+made of light and nothing, and his own eyes went funny when he looked at them. He felt slightly
+sick, the way you feel at the top of a ladder. And still eight trained soldiers ran after them like
+dogs after a ball.
+
+Three were still going for the rabbits, though.
+
+"Ma'am," said Okafor, into his radio. "GOC closing on the targets. Three. With a net."
+
+"Hold position," said Vance. "Do not engage. Do *not* engage."
+
+He held. Then two teenagers came around the side of the bank, straight at him.
+
+"Have you seen a dog?" said the boy, very loud, grabbing his sleeve. "A little one. Brown. He ran
+off. We've been looking for hours."
+
+"His name's Biscuit," said the girl. She was crying, or doing a very good job of it. "Please. It's
+Christmas."
+
+"I—" said Okafor. He looked down at them. He looked back up at the well. He looked at the boy, and
+something about him was familiar, a face he'd seen on a phone screen in a Foundation briefing a
+long time ago. "Aren't you—"
+
+"BISCUIT!" the boy yelled, at the top of his voice, in the direction of absolutely nothing.
+
+That was when the third GOC soldier, the one nearest the rabbits, the one with the net, stopped
+dead in the middle of the square.
+
+Okafor saw why. He couldn't help it. Beside the soldier, at about shoulder height, there was a
+shape. Greenish. See-through. Long snout, ears, sitting in the air on nothing. It was the fox. *His*
+fox.
+
+And the soldier, who had never been told, turned his head and looked straight at it.
+
+The shriek went across the whole square, the smoke-alarm-in-your-skull sound, and a flash of
+green. The soldier went backwards over his own net, sat down hard on the bricks and stayed there,
+staring at nothing. The net went everywhere. One of the other two tripped over it, and the third
+tripped over him.
+
+And just for a second, before it vanished completely, the green fox turned in the air and looked
+across the square at Okafor.
+
+He didn't look at it straight. He'd learned. He kept his eyes on the well and watched the fox out
+of the very corner of his eye, and the fox, he was almost sure, winked.
+
+*Told you,* it said, from nowhere, in his ear. *Interesting, isn't it?*
+
+Then it was gone.
+
+"Biscuit," said the boy, weakly, beside him.
+
+"Kid," said Okafor, not looking down, "there isn't a dog, is there?"
+
+There was a pause.
+
+"No," said the girl.
+
+"Thought not," said Okafor. He found he was smiling. "Stay behind me. It's about to get busy."
+
+# Chapter 18: Down the Well
+
+They were twenty meters from the well when the second net came.
+
+Twisted Bonnie saw it coming before he did. It was a GOC soldier on the right, the one who hadn't
+tripped, back on his feet and swinging the heavy weighted net up and over in a long arc. It was
+coming down right where Withered Bonnie was going to be in one more stride.
+
+She'd been in a net once. The first summer, in the woods, on the worst night. She had lain still
+in it and not panicked and waited for her pack to come, and they had. She knew exactly what it felt
+like. She knew she could do it again.
+
+She put her shoulder into him and knocked him sideways, and the net came down on her instead.
+
+It was heavy and it was tight and it took her legs out from under her, and she went down on the
+bricks in a tangle of cord and weights. She heard him make a sound. It wasn't a word or a song.
+It was pure static, loud and harsh and furious, the same kicked-radio sound as in the shed that
+first morning.
+
+He turned around. He looked at the soldier with the net. The soldier looked at him.
+
+Twisted Bonnie had time to think, *Oh, no,* and then he moved.
+
+He wasn't fast. He was old and falling to pieces and he had one arm. But he was very tall and very
+angry, and he went at that soldier like a falling tree. The soldier, to his credit, didn't run. He
+just found himself picked up by the front of his vest, carried three long strides, and dropped
+neatly into the big holly hedge in front of the Town Hall. He landed with a sound like someone
+sitting on a bag of chips, and stayed there, unharmed and very, very prickled, saying a word
+Twisted Bonnie would not have expected a soldier to know.
+
+Then Withered Bonnie turned back, and the anger went out of him like air out of a balloon, and he
+crouched down beside the net and started pulling at it with his one hand. He pulled at it frantically,
+the static in his chest going *Bon. Nie. Bon. Nie.*
+
+"I'm all right," she said. "I'm all right. Go. *Go.* The well!"
+
+He didn't go. He kept pulling at the net.
+
+A red streak came across the square, low and fast, and Foxy's hook went through three strands of
+cord in one swipe and four more in the next. Twisted Bonnie rolled free.
+
+"*Honestly*," said Foxy. "I leave you alone with him for one day."
+
+From the churchyard, across the square, a voice called out, flat and clear and carrying, the voice
+of someone used to being obeyed.
+
+"All units, stand down. Stand down. Nobody goes near that well." Commander Reyes walked out of the
+churchyard gate into the Christmas lights with his hands in his pockets. "It's a heritage structure
+under a civilian town hall, at two in the morning on Christmas Day. We're not going down a well.
+We're not going down *any* well. Get Jenkins out of the hedge."
+
+Behind him, Kade wrote something in a small notebook, and didn't look surprised.
+
+Twisted Bonnie took Withered Bonnie's hand. Together, they ran the last twenty meters to the well.
+
+It was small and round and old, ringed with brick and garland and white Christmas bulbs. The four
+lights were still going around it, dipping and rising. As the two rabbits came up, the lights
+parted for them, the way people make room for someone they've been expecting. Down in the dark
+of the shaft, the song was louder than ever, and very close.
+
+Withered Bonnie climbed up onto the rim. He looked down. He looked back at her.
+
+"Go on," said Twisted Bonnie. "I'm right behind you. I promised."
+
+He went down. She went after him.
+
+Across the square, in the shadow of the Town Hall wall, Violet Hellstorm had her hand on Rebecca
+Miller's arm. She was steering her, firmly and kindly, back toward the van, saying something calm
+about protocols and civilian safety and the GOC. And Miller was letting her, for once, because her
+head was so full she couldn't argue.
+
+But Miller looked back. Just once, over her shoulder, at the well. And so she saw, on the white wall
+of the Town Hall behind them, in the light of the four dancing orbs, their two shadows side by side.
+
+Hers was a woman in a coat.
+
+Violet's had long ears.
+
+Miller didn't say anything. She let herself be walked to the van. She sat down in the back and
+picked up her notebook, and her hands were perfectly steady.
+
+*25 Dec, approx. 2:20 AM,* she wrote. *Town Hall wall. V.H.'s shadow.* She looked at it for a long
+time. Then she added: *Still not filing.*
+
+# Interlude: "Best Day Ever" (Foundation Audio Transcription, Partial) {-}
+
+*Source: Microphone 2, Town Hall Square well, Bellemarsh. 25 December, 02:14:07-02:31:52.
+Transcribed by Site audio lab. Signal origin estimated 9-14 meters below ground level. Vocal
+source unidentified. Note: from 02:16:40 a second vocal source joins at ground level, heavily
+distorted (see attached spectrogram), singing the same melody.*
+
+*[humming, approx. 40 seconds]*
+
+*...lights are on and the [unintelligible] is open...*
+
+*...everybody's here, everybody came...*
+
+*[unintelligible, approx. 12 seconds]*
+
+*...and if you're lost, then follow the [unintelligible]...*
+
+*...I'll keep on singing till you...*
+
+*[second source joins, distorted: melody only, no words]*
+
+*...best day... best day ever...*
+
+*[both sources, approx. 3 minutes, melody only]*
+
+*[ground-level source ceases at 02:19:15. Underground source continues, moving away from
+microphone, until 02:31:52. Final audible words:]*
+
+*...you came. You came. You came.*
+
+*Lab note: we have played this to eleven staff members. Four of them cried. We do not know why. We
+would like to stop being asked to play it.*
