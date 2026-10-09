@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Generate the placeholder cover for a Twisted Nights book.
 
-Usage: python3 tools/cover.py <1|2|3> [out.jpg]
-Shared by all three repos (keep copies identical); writes 1600x2400 JPEG.
+Usage: python3 tools/cover.py <1|2|3|4> [out.jpg]
+Shared by all four repos (keep copies identical); writes 1600x2400 JPEG.
 """
 import math, random, sys
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
@@ -18,6 +18,8 @@ BOOKS = {
             sky=((8, 8, 18), (40, 28, 60)), title=(226, 214, 240), accent=(170, 110, 220)),
     3: dict(night="NIGHT THREE", sub="Night of Embers", tag="Grim's Night has always kept a secret.",
             sky=((10, 8, 8), (70, 26, 12)), title=(240, 130, 50), accent=(255, 196, 80)),
+    4: dict(night="NIGHT FOUR", sub="Old Friends", tag="Every Christmas, the well sings.",
+            sky=((4, 6, 14), (16, 34, 54)), title=(214, 228, 242), accent=(110, 180, 255)),
 }
 
 
@@ -121,6 +123,45 @@ def scene_three(img, rng):
         glow(img, (x, y), r * 2, c + (220,), r)
 
 
+def scene_four(img, rng):
+    d = ImageDraw.Draw(img)
+    for i in range(15):  # winter woods
+        cypress(d, 50 + i * 110 + rng.randint(-20, 20), 1960, rng.randint(460, 720), 30, (8, 14, 24), rng)
+    d.rectangle([0, 1940, W, H], fill=(10, 16, 26))
+    # the wrong tree: cold blue, glitching
+    glow(img, (800, 1500), 420, (60, 140, 255, 90), 140)
+    tree = Image.new("RGBA", img.size, (0, 0, 0, 0))
+    td = ImageDraw.Draw(tree)
+    td.polygon([(640, 1960), (720, 1100), (880, 1100), (960, 1960)], fill=(30, 70, 140, 255))
+    td.ellipse([520, 900, 1080, 1250], fill=(30, 70, 140, 255))
+    td.ellipse([700, 1380, 900, 1900], fill=(150, 210, 255, 255))  # the opening
+    for _ in range(14):  # glitch: shift horizontal bands sideways
+        y = rng.randint(900, 1940)
+        h = rng.randint(8, 40)
+        band = tree.crop((0, y, W, y + h))
+        tree.paste((0, 0, 0, 0), (0, y, W, y + h))
+        tree.paste(band, (rng.choice([-1, 1]) * rng.randint(15, 60), y))
+    img.alpha_composite(tree)
+    # Withered Bonnie stepping out: one arm, bent ear, no face
+    d = ImageDraw.Draw(img)
+    body = (6, 8, 16)
+    d.polygon([(745, 1940), (765, 1700), (835, 1700), (855, 1940)], fill=body)  # legs
+    d.polygon([(735, 1720), (750, 1520), (850, 1520), (865, 1720)], fill=body)  # torso
+    d.ellipse([745, 1400, 855, 1530], fill=body)  # head
+    d.polygon([(760, 1420), (765, 1250), (795, 1255), (790, 1420)], fill=body)  # ear
+    d.polygon([(810, 1420), (830, 1300), (900, 1250), (905, 1275), (845, 1320), (835, 1420)], fill=body)  # bent ear
+    d.line([(855, 1540), (900, 1640), (895, 1720)], fill=body, width=16)  # the one arm
+    d.line([(900, 1640), (915, 1680)], fill=(60, 70, 90), width=3)  # loose wires
+    d.line([(902, 1645), (890, 1690)], fill=(60, 70, 90), width=3)
+    d.ellipse([768, 1440, 832, 1510], fill=(0, 0, 0))  # the hollow
+    for x in (788, 812):
+        glow(img, (x, 1468), 12, (255, 255, 255, 200), 6)
+        ImageDraw.Draw(img).ellipse([x - 3, 1465, x + 3, 1471], fill=(255, 255, 255))
+    for x, y in [(360, 1700), (470, 1560), (1150, 1620), (1260, 1760)]:  # four orbs
+        glow(img, (x, y), 40, (230, 240, 255, 170), 22)
+        ImageDraw.Draw(img).ellipse([x - 12, y - 12, x + 12, y + 12], fill=(245, 250, 255))
+
+
 def text_c(d, y, s, font, fill, shadow=True):
     w = d.textlength(s, font=font)
     if shadow:
@@ -134,7 +175,7 @@ def main():
     b = BOOKS[n]
     rng = random.Random(n)
     img = gradient(*b["sky"]).convert("RGBA")
-    {1: scene_one, 2: scene_two, 3: scene_three}[n](img, rng)
+    {1: scene_one, 2: scene_two, 3: scene_three, 4: scene_four}[n](img, rng)
     d = ImageDraw.Draw(img)
     text_c(d, 150, "TWISTED", ImageFont.truetype(SERIF_B, 200), b["title"])
     text_c(d, 360, "NIGHTS", ImageFont.truetype(SERIF_B, 200), b["title"])

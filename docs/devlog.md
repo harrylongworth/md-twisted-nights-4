@@ -2,9 +2,11 @@
 
 ## Ideas / backlog
 
-- **Cover**: `tools/cover.py` needs a Book 4 entry (title block + scene — the obvious scene is
-  Withered Bonnie stepping out of a blue-glitching tree). Title is now *Old Friends*. Adding it means
-  updating the copy in all four repos so they stay identical.
+- **Humanize pass** not yet run (same as Books 1-3). A mechanical scan found "very" at 3.7 per
+  1000 words; 35 were cut by hand, leaving 29. Em-dashes are at 1.0/1000 (Book 3: 12.1).
+- **Length**: ~18,700 words against the series' ~14,000. Act II is the long one; trim there first if
+  Tom wants it shorter.
+- **Placeholder cover** — swap for real art whenever that's ready.
 
 ## Done
 

@@ -60,8 +60,13 @@ Validate with `epubcheck` rather than trusting pandoc's exit code. Never `--numb
 - `docs/devlog.md` + `docs/devlog/` fragments, `docs/changelog.md` — standard format, see
   master CLAUDE.md
 - `.claude/skills/` — `book-writer`, `fiction-workshop`, `humanize` (copied from Book 3)
+- `book.md` — the manuscript, full first draft v0.1.0: 22 chapters across 4 acts, 3 interludes,
+  Prelude to Night Five, end matter (~18,700 words). US English, matching Books 1-3. No
+  `humanize` pass yet.
 - `tools/cover.py` — the shared series cover generator; **keep all four repos' copies
-  identical**. Book 4 has no entry yet (title now chosen; see devlog backlog).
+  identical**. Regenerate with `python3 tools/cover.py 4 cover.jpg`.
+- `cover.jpg` — generated placeholder cover (winter-blue palette, the glitching tree, Withered
+  Bonnie, four orbs)
 - `metadata.yaml`, `epub.css` — build metadata and stylesheet, matching Books 1-3
 
 ## Workflow

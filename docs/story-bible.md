@@ -231,7 +231,17 @@ again.
 
 ---
 
-## Proposed Chapter Outline (for Tom's review)
+## Chapter Outline (as drafted, v0.1.0)
+
+**Drafted 2026-10-09.** The full draft follows the outline below, with these changes made while
+writing: Chapters 7 and 8 swapped so the times run in order (the dawn meeting in the shed comes
+before Violet's morning at the Site); Chapter 7 is titled **"Same Shape"** and Chapter 8 **"A
+Phantom Fox, Allegedly"**, so "Old Friends" belongs only to the Chapter 20 reunion; Twisted
+Bonnie is she/her throughout (Book 1 canon); the Puppet gives Withered Bonnie his voice back in
+Chapter 20; and Twisted Bonnie drops a spare voice box (from the headless lawn Santa) down the
+well in Chapter 22.
+
+### Original proposed outline (for reference)
 
 House shape: ~22 short chapters (~650 words each, ~14,000 words), 4 acts, 3-4 interludes,
 ensemble multi-POV. The whole book runs about **27 hours**, from 3:33 AM on 24 December to

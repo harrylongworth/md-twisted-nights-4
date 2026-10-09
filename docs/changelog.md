@@ -15,3 +15,7 @@ All notable changes to this book are documented here (Keep a Changelog format).
   Puppet in Lefty under the well, the well's Christmas song, Phantom Foxy and the guard, new
   world rules, a proposed 22-chapter outline, and the author's Prelude to Night Five
   (copy-edited).
+- First full draft of `book.md` (v0.1.0): 22 chapters, 4 acts, 3 interludes, the Prelude to
+  Night Five and end matter (~18,700 words). EPUB builds clean (EPUBCheck: 0 errors, 0 warnings).
+- Book 4 cover: a new `scene_four` in the shared `tools/cover.py` (copied to Books 1-3; their
+  covers are unchanged).
