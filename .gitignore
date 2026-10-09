@@ -1,0 +1,20 @@
+# Secrets — never commit
+client_secret_*.json
+service-account-*.json
+*.pem
+.env
+*.env
+
+# Windows reserved device names
+nul
+NUL
+
+# macOS
+.DS_Store
+
+# Editor backups
+*~
+*.bak
+
+# Build output (kept out of git; rebuild with pandoc, see CLAUDE.md)
+dist/
