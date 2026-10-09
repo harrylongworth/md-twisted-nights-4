@@ -10,3 +10,8 @@ All notable changes to this book are documented here (Keep a Changelog format).
   `tools/cover.py`; `docs/devlog/` fragment directory.
 - `docs/story-bible.md` seed: continuity carried from Books 1-3, the Withered Bonnie prelude,
   the Bellemarsh Record seeds reserved for Books 4-5, and the open questions for the author.
+- Title: *Twisted Nights, Night Four: Old Friends* (author's choice).
+- Story bible Stage 1 from the author's brief: Withered Bonnie's mission and temperament, the
+  Puppet in Lefty under the well, the well's Christmas song, Phantom Foxy and the guard, new
+  world rules, a proposed 22-chapter outline, and the author's Prelude to Night Five
+  (copy-edited).

@@ -1,4 +1,4 @@
-# Project: Twisted Nights, Night Four (md-twisted-nights-4)
+# Project: Twisted Nights, Night Four: Old Friends (md-twisted-nights-4)
 
 Tom's book, published under the pen name **T.L. Shadowmarsh**, continuing straight on from
 `harrylongworth/md-twisted-nights-3` (Book 3, *Night of Embers*). See `harrylongworth/md-claude`
@@ -61,7 +61,7 @@ Validate with `epubcheck` rather than trusting pandoc's exit code. Never `--numb
   master CLAUDE.md
 - `.claude/skills/` — `book-writer`, `fiction-workshop`, `humanize` (copied from Book 3)
 - `tools/cover.py` — the shared series cover generator; **keep all four repos' copies
-  identical**. Book 4 has no entry yet (needs the title first).
+  identical**. Book 4 has no entry yet (title now chosen; see devlog backlog).
 - `metadata.yaml`, `epub.css` — build metadata and stylesheet, matching Books 1-3
 
 ## Workflow
