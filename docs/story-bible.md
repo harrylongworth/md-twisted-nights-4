@@ -120,9 +120,11 @@ is **(author)** canon.
   normal. The Foundation has never heard it, because it arrived after last Christmas (Book 1 is
   set in summer), and nobody local thinks it's worth mentioning. *How does the Foundation react
   when a whole town shrugs at a singing well?* is a central comic engine of the book.
-- **Who notices first:** "the duo" (read here as **Leo and Marisol**, see Open Questions) spot
-  Withered Bonnie approaching town.
-- **The guard** stationed at Grim Foxy's site since the Book 3 incident finds out "in a much more
+- **Who notices first:** "the duo", **Leo and Marisol** (confirmed by Tom), spot Withered Bonnie
+  approaching town.
+- **The guard is Agent Okafor** (MTF Lambda-12, Book 1; identified by Tom, 2026-10-09: "the guard
+  who was going to his post after, way after the events. He even put a stake in the ground"). He's
+  back at his post by the stake after the Grim Foxy incident, and he finds out "in a much more
   interesting way": **Phantom Foxy** turns up, acting very bored and wanting to cause a bit of
   chaos, tells him something interesting is happening tonight, then vanishes **by jump-scaring
   him, because he looked at him**.
@@ -145,7 +147,7 @@ is **(author)** canon.
   one and it jump-scares you and vanishes** (author, through Phantom Foxy). They are bored,
   mischievous and chaotic rather than hostile: danger level "annoying". They know things and
   enjoy hinting at them. A camera pointed at one gets nothing usable **(proposed)**, which keeps
-  the guard's report unprovable.
+  Okafor's report unprovable.
 - **The well's Christmas song** **(Record + author).** Every Christmas night, at a random time
   between midnight and six, the Puppet sings *Best Day Ever* from somewhere in the maze. Four orbs
   of light come out of the woods and dance around the well. Bellemarsh treats this as entirely
@@ -169,8 +171,11 @@ clumsily at first, as if he'd forgotten how ground worked.
   mess, noise and exposure, not deaths.
 - *Physical nature* **(proposed):** genuinely physical, like Grim Foxy, not an illusion like the
   Twisted. Cameras record him cleanly, which makes him a secrecy risk for the whole pack.
-- *Voice* **(proposed, needs Tom):** he can speak, badly, through a damaged voice box in his
-  chest: short, broken phrases, sometimes old recorded lines from whatever he used to be.
+- *Voice* **(author, 2026-10-09):** he can speak, badly, through a damaged voice box in his
+  chest: short, broken phrases, sometimes old recorded lines from whatever he used to be. The
+  damage came **from "A."** (the one who must never be named; see the Prelude to Night Five),
+  **plus decay and long disuse**. On the page nobody learns who did it; at most Withered Bonnie
+  flinches from a half-said name.
 - *Arc* **(proposed):** goes from a lost, bull-headed stranger tearing up the town to someone the
   pack chooses to help. He ends the book reunited with the Puppet in the maze. The title is his:
   *Old Friends*.
@@ -179,16 +184,24 @@ clumsily at first, as if he'd forgotten how ground worked.
 (Record), danger 0. Sings at Christmas. **(proposed)** Barely seen on the page: a voice, the song,
 a black-and-white shape and a glimpse of Lefty at the reunion. More is kept for Book 5.
 
-**Phantom Foxy** **(author)** — Bored, wants a bit of chaos, tips off the guard that "something
+**Phantom Foxy** **(author)** — Bored, wants a bit of chaos, tips off Okafor that "something
 interesting is happening tonight", jump-scares him for looking. **(proposed)** Turns up once more
 in Act III to cause trouble at the worst moment for somebody, ideally the GOC.
 
-**The guard** **(author: role and Phantom Foxy scene; details proposed)** — Posted at Grim Foxy's
-clearing since the Book 3 incident. **Proposed:** a GOC soldier, **Specialist Dale Thibodeaux**
-(placeholder name). The watch post was the price the Drell loyalists on the review board extracted
-for confirming Reyes, which ties him to the political thread. He's bored, cold, and convinced the
-posting is a punishment. His report of a "see-through burnt fox that said something interesting
-was happening tonight" is the first official sign of trouble, and nobody believes it.
+**Agent Okafor** **(author: he's the guard; Book 1 canon)** — SCP Foundation, MTF Lambda-12
+("Ghost Watchers"), agent-of-record on Lambda-12's permanent Bellemarsh rotation (Book 1
+ending). In Book 1 he was the green agent Twisted Foxy stared down and then left unharmed, and he
+kept his marker afterwards: a small stake driven into the dirt at the treeline, half swallowed by
+grass, which he visits "for no reason he could fully explain". In Book 2 he's "no longer the new
+guy". He isn't in Book 3. **(proposed)** After the Grim Foxy incident, Lambda-12 put a night
+watch back on the treeline, and Okafor took the post by his own stake. Field Commander Vance
+still runs Lambda-12.
+- His report of a "see-through burnt fox that said something interesting was happening tonight"
+  is the first official sign of trouble, and nobody believes it.
+- **(proposed)** The Phantom Foxy scene deliberately echoes Book 1: the last time a Foxy looked
+  Okafor in the eye, she spared him. This one is less polite.
+- **(proposed)** He's the Foundation's man on the ground, and he's on Lambda-12's rotation, so he
+  sees the Christmas song first-hand in Act III.
 
 **Pack roles** **(proposed):**
 - **Twisted Bonnie** carries the book's emotional thread: he sees in Withered Bonnie an older,
@@ -198,8 +211,8 @@ was happening tonight" is the first official sign of trouble, and nobody believe
 - **Shadow Bonnie / Violet Hellstorm** has heard the Christmas song every year (she never went
   dormant) and has never been down the well. She keeps the Foundation away from it, under
   Miller's eye.
-- **Twisted Foxy** keeps visiting Grim Foxy's clearing, so she meets the guard's new posting
-  first-hand.
+- **Twisted Foxy** keeps visiting Grim Foxy's clearing, and passes Okafor's stake on the way:
+  the two of them have history.
 - **Fredbear and Spring Bonnie** must decide whether a stranger who isn't on the Ledger is theirs
   to protect. Their answer is the book's restraint ending.
 
@@ -207,12 +220,12 @@ was happening tonight" is the first official sign of trouble, and nobody believe
 he lifts his phone, and this time chooses not to film. They know Foxy now, so they go to the
 pack rather than the internet.
 
-**Miller** **(proposed)** — sent to Bellemarsh for Christmas Eve on the back of the GOC report.
+**Miller** **(proposed)** — sent to Bellemarsh for Christmas Eve on the back of Okafor's report.
 Spends the night knocking on doors about a singing well and being told to go to bed. Sees Violet
 somewhere Violet should not be, and her private file grows a page.
 
-**Reyes** **(proposed)** — The Drell loyalists use the guard's report to push for a capture
-operation. Reyes has to send a team into town on Christmas Eve, and his restraint is tested
+**Reyes** **(proposed)** — Okafor's report reaches the GOC through the joint liaison channel, and
+the Drell loyalists use it to push for a capture operation. Reyes has to send a team into town on Christmas Eve, and his restraint is tested
 again.
 
 ---
@@ -227,14 +240,14 @@ ensemble multi-POV. The whole book runs about **27 hours**, from 3:33 AM on 24 D
 ### Act I: Something Interesting (23-24 December, night)
 
 1. **"The Quietest Week of the Year"** — *Ensemble.* Bellemarsh at Christmas: lights, the diner,
-   the Chief's new checklist pinned up. The pack on a slow night. Foxy at Grim Foxy's clearing
-   finds a GOC watch post there now, and the guard in it, freezing.
-2. **"Something Interesting"** — *POV: the guard.* (author) Phantom Foxy appears, bored, wanting
-   a bit of chaos: something interesting is happening tonight. The guard looks straight at him.
-   Jump-scare; gone. His radio report is laughed at.
+   the Chief's new checklist pinned up. The pack on a slow night. Foxy, on her way to Grim
+   Foxy's clearing, finds Agent Okafor back at his old stake on Lambda-12's night watch, freezing.
+2. **"Something Interesting"** — *POV: Okafor.* (author) Phantom Foxy appears, bored, wanting
+   a bit of chaos: something interesting is happening tonight. Okafor looks straight at him.
+   Jump-scare; gone. His radio report gets a long silence from Vance.
 3. **"3:33"** — *POV: Withered Bonnie, short and fragmentary.* The tree from his side. Ground,
    cold, the town's lights. One thought: find them. Find *them*. He passes
-   close to the guard's post; the guard sees nothing, or something.
+   close to Okafor's stake; Okafor sees nothing, or something.
 4. **"The Duo"** — *POV: Leo and Marisol.* (author) Out late on the first night of the holidays,
    they see a faceless rabbit walking out of the trees toward town. Leo lifts the phone and puts it
    down again. They run for the Hollow.
@@ -242,8 +255,8 @@ ensemble multi-POV. The whole book runs about **27 hours**, from 3:33 AM on 24 D
    heard of him; the Ledger has no page for him. Shadow Bonnie: "He's not ours." Twisted Bonnie:
    "He's *somebody's*." Dawn is coming and a stranger is loose in town.
 
-*Interlude I: GOC Watch Post 7 Log, 24 December.* The guard's entry about the fox, with a
-superior's comments in the margin.
+*Interlude I: MTF Lambda-12 Night Rotation Log, 24 December.* Okafor's entry about the fox,
+with Vance's comments in the margin.
 
 ### Act II: Christmas Eve (24 December, day)
 
@@ -251,14 +264,15 @@ superior's comments in the margin.
    animatronic Santa display (not his friend; it doesn't take this well), the diner's back door.
    First chaos, first aggression when someone gets in his way. Indaro opening up the diner has
    the closest call (low-detail, comic).
-7. **"A Faceless Rabbit, Allegedly"** — *POV: Violet.* The GOC report reaches the Foundation.
+7. **"A Phantom Fox, Allegedly"** — *POV: Violet.* Okafor's report reaches the site.
    Violet is put on it as the Bellemarsh analyst. Miller invites herself along: Christmas Eve in
    Bellemarsh.
 8. **"Old Friends"** — *POV: Twisted Bonnie.* Twisted Bonnie and Foxy find Withered Bonnie in the
    old railway shed. A tense first meeting: he's aggressive, then friendly-ish. Through the broken
    voice box: "Looking. For. My friend." Twisted Bonnie sees what he himself could become.
 9. **"The Price of a Signature"** — *POV: Reyes.* The Drell loyalists and Board Liaison Kade use
-   the guard's report to demand a capture team in Bellemarsh tonight. Reyes agrees, on his terms.
+   Okafor's report (shared through liaison) to demand a capture team in Bellemarsh tonight.
+   Reyes agrees, on his terms.
 10. **"He Won't Stay Put"** — *POV: Marisol.* Hiding a six-foot rabbit through a small-town
    Christmas Eve. He keeps leaving to search: a church nativity scene, a toy shop window. Leo and
    Marisol cover for him with the town; the pack can't move by day.
@@ -288,7 +302,7 @@ Christmas."
 16. **"Go Back to Bed, Honey"** — *POV: Miller.* The comic set piece. Agents panic; Miller knocks
    on doors; residents in dressing-gowns tell her it's the well, it does that, go to bed. One of
    them offers her eggnog. Her cameras get orbs, and nothing explains them.
-17. **"Something Interesting, Part Two"** — *POV: the guard / GOC team.* The capture team moves
+17. **"Something Interesting, Part Two"** — *POV: Okafor / GOC team.* The capture team moves
    on Withered Bonnie. Phantom Foxy turns up again for the fun of it, and a GOC soldier looks
    straight at him. Chaos the pack didn't even have to cause.
 18. **"Down the Well"** — *POV: Twisted Bonnie.* Withered Bonnie's aggression peaks as the net
@@ -306,13 +320,14 @@ transcribed them, with "[unintelligible]" in all the important places.
 
 ### Act IV: Christmas Morning
 
-21. **"Nothing to Report"** — *POV: rotating (Reyes, Miller, Violet).* The GOC has a report about
-   a phantom it can't prove; the Foundation has orbs on video and a town calling them normal.
+21. **"Nothing to Report"** — *POV: rotating (Reyes, Miller, Violet).* Okafor has a report about
+   a phantom he can't prove; the Foundation has orbs on video and a town calling them normal.
    Miller's file grows a page about Violet. The Foundation opens a new question: where did the
    rabbit come *from*? (Leads into the Prelude to Night Five.)
 22. **"Dawn, Christmas"** — *POV: closing ensemble.* Christmas morning. Leo and Marisol. The pack
    decides a stranger can be theirs to protect after all. Twisted Bonnie leaves something at the
-   well. Foxy visits the clearing and finds the guard asleep on post. Deep in the woods, the blue
+   well. Foxy visits the clearing and passes Okafor asleep at his stake.
+   She leaves him be, like last time. Deep in the woods, the blue
    tree flickers again.
 
 **Prelude to Night Five** — Tom's scene (below).
@@ -363,8 +378,8 @@ before END MATTER.
 **Copy-edit notes for Tom:**
 - "Wizard Bonnie" was read as **Withered Bonnie** (a voice-typing slip).
 - "a free warning" was read as **fair warning**.
-- **"Can we go to pray for now at least?" isn't clear.** The draft has "Can we agree on that,
-  for now at least?" as a placeholder. Tom, what did you mean here?
+- "Can we go to pray for now at least?" was a voice-typing slip for **"Can we agree on that,
+  for now at least?"** (confirmed by Tom).
 - In the manuscript, the speakers are written as **???** until Cassidy is named. The first two
   are told apart only by what they say, which matches "four eyes, or is it six?".
 - "He" / "Af—" is never named on the page (Tom's line does the job).
@@ -377,8 +392,11 @@ before END MATTER.
 
 - **Timeline:** Book 1, summer (year 1). Book 2, about six months later. Book 3, Grim's Night,
   late October (year 2). Book 4, 24-25 December (year 2). The Foundation's interest had dropped
-  to "near-total silence" in Book 2's lead-up, so nobody was on the ground at last Christmas's
-  song. That fits Tom's point that the Foundation has never heard it.
+  to "near-total silence" in Book 2's lead-up, and Lambda-12's permanent rotation only started
+  "within the year" after Book 1, so nobody was on the ground at last Christmas's song. That fits
+  Tom's point that the Foundation has never heard it. Even with the rotation in place, the song
+  happens between midnight and six at the Town Hall well, and no local has ever thought to report
+  it.
 - **Shadow Bonnie has heard the song every year** (never dormant). The rest of the pack's
   dormancy history decides whether they have: check Book 1's dormancy rules when drafting
   Chapter 12.
@@ -393,14 +411,14 @@ before END MATTER.
 
 ## Open Questions for Tom
 
-1. **"The duo"** — is that **Leo and Marisol**? (The outline assumes so.)
-2. **The guard** — GOC or Foundation? Does he have a name? (Proposed: GOC, Specialist Dale
-   Thibodeaux, posted there as the price of Reyes's confirmation.)
-3. **Can Withered Bonnie talk?** (Proposed: badly, through a broken voice box.)
-4. **"Can we go to pray for now at least?"** in the Prelude to Night Five: what's the line?
-5. **Twisted Bonnie as the emotional lead** (two Bonnies, "old friends"): yes, or someone else?
-6. **The outline** — keep, change or redo any chapters before drafting starts?
+Answered 2026-10-09: the duo is Leo and Marisol; the guard is Agent Okafor; Withered Bonnie talks
+through a voice box damaged by "A.", decay and disuse; the Prelude line is "Can we agree on that,
+for now at least?".
+
+Still open:
+1. **Twisted Bonnie as the emotional lead** (two Bonnies, "old friends"): yes, or someone else?
+2. **The outline** — keep, change or redo any chapters before drafting starts?
 
 ---
 
-*Last updated: 2026-10-09 (Stage 1 story bible and proposed outline from Tom's brief).*
+*Last updated: 2026-10-09 (Tom's answers folded in: Okafor is the guard, voice box confirmed).*
